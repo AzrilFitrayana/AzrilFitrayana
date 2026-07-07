@@ -1,5 +1,5 @@
 # ```Hi 👋, I'm Muhammad Azril Fitrayana```
-```A Fullstack Developer from Indonesia```
+```A Full-stack Developer from Indonesia```
 
 ```🛠️ Frontend:```
 - <p>
